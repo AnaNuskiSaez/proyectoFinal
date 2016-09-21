@@ -1,0 +1,5 @@
+ public static int dividir(int a, int b){
+        int s=a/b;
+        return s;
+    }
+    
