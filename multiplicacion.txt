@@ -1,0 +1,4 @@
+ public static int multiplicar(int a, int b){
+        int s=a*b;
+        return s;
+    }
